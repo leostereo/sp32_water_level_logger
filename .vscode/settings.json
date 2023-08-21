@@ -11,8 +11,9 @@
     "idf.openOcdConfigs": [
         "board/esp32-bridge.cfg"
     ],
-    "idf.portWin": "COM1",
+    "idf.portWin": "COM4",
     "idf.pythonBinPathWin": "C:/Espressif/python_env/idf5.1_py3.11_env/Scripts/python.exe",
     "idf.toolsPathWin": "C:\\Espressif",
-    "cmake.configureOnOpen": false
+    "cmake.configureOnOpen": false,
+    "idf.flashType": "UART"
 }
